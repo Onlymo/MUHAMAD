@@ -1,9 +1,4 @@
-/*
-	Author: ShapedTheme
-	Template: Cluster
-	Version: 1.0
-	URL: http://shapedtheme.com
-*/
+
 
 
 /* TABLE OF CONTENTS
@@ -153,8 +148,8 @@ color: #0086E5;
   background-color: transparent;
 }
 .navbar-custom .navbar-toggle {
-  color: black;
-  background-color: rgba(255, 255, 255, 0.2);
+  color: tan;
+ background-color: rgba(0, 18, 219, 1);
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:focus,
