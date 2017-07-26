@@ -1,2 +1,2 @@
 # MUHAMAD
-This project is for client name Muhamad
+This project is for a client name Muhamad
